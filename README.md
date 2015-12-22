@@ -1,2 +1,1 @@
-# delka.github.io
-Ihor Zenich
+# Please follow http://ihorzenich.github.io/
